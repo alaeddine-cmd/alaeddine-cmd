@@ -36,7 +36,7 @@
 
 <h3 align="left">🛠 Languages and Tools</h3>
 ###
-<div align="center">
+<div align="left">
 
   <!-- Languages -->
   <h4>Languages</h4>
