@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Ala eddine Lusakula from Tunisia<br><br>- 🔭 I’m working as Backend | IOT Developper.<br>- 📚 I'm currently learning Backend ( PHP ).<br>- ⚡ In my free time I like to work on personal projects.</p>
+<p align="left">I'm Ala eddine Lusakula from Tunisia<br><br>- 🔭 I’m working as Full stack | IOT Developper.<br>- 📚 I'm currently mastering react.<br>- ⚡ In my free time I like to work on personal projects.</p>
 
 ###
 
