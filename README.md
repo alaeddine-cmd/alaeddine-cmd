@@ -23,7 +23,7 @@
 
 <h1 align="center">Welcome to My GitHub! 🚀</h1>
 
-<h3 align="center">Passionate Backend & IoT Developer 💡 | Exploring PHP & Laravel 🔥</h3>
+<h3 align="center">Full stack | IoT Developer 💡 | Exploring new technologies .. 🔥</h3>
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
