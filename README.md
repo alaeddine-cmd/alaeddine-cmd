@@ -23,14 +23,14 @@
 
 <h1 align="center">Welcome to My GitHub! 🚀</h1>
 
-<h3 align="center">Full stack | IoT Developer 💡 | Exploring new technologies .. 🔥</h3>
+<h3 align="center">MERN stack Developer | IoT </h3>
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Ala eddine Lusakula from Tunisia<br><br>- 🔭 I’m working as Full stack | IOT Developper.<br>- 📚 I'm currently mastering react.<br>- ⚡ In my free time I like to work on personal projects.</p>
+<p align="left">I'm Ala eddine Lusakula from Tunisia<br><br>- 🔭 I’m working as a MERN stack Developer <br> -  ⚡ In my free time I like to work on personal projects.</p>
 
 ###
 
@@ -41,15 +41,12 @@
   <!-- Languages -->
   <h4>Languages</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
 
   <br><br>
 
   <!-- Frameworks -->
   <h4>Frameworks</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel logo" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="Flask logo" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
