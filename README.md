@@ -1,5 +1,7 @@
  <div align="center">
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Pacman.gif"
+       width="45"
+       alt="Pac-Man" />
 # Ala Eddine Lusakula
 
 ### SOC Analyst | Cybersecurity | Software Development | IoT
