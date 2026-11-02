@@ -26,7 +26,7 @@
 <br>
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFhcHltN3V5bDc0NDJvNmxtaXd4cHpkMGljN2k4dnpwNjcycno5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PzhtfehD88UKoJPpOX/giphy.gif"
-       width="40"
+       width="350"
        alt="mr.robot" />
 
 </div>
