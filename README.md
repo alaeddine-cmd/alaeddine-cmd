@@ -1,123 +1,88 @@
- <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Pacman.gif"
-       width="45"
-       alt="Pac-Man" />
-# Ala Eddine Lusakula
 
-### SOC Analyst | Cybersecurity | Software Development | IoT
+<div align="center">
+
+<h2>alaeddine@github:~$ whoami</h2>
+
+<h1>Ala Eddine Lusakula</h1>
+
+<p>
+  <code>SOC Analyst</code> · <code>Cybersecurity</code> · <code>Developer</code>
+</p>
 
 <p>
   <a href="https://www.linkedin.com/in/alaeddine-lusakula/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@ala4043">
-    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-55D6BE?style=flat-square&logo=linkedin&logoColor=black" />
   </a>
   <a href="https://app.hackthebox.com/public/users/3487737">
-    <img src="https://img.shields.io/badge/Hack_The_Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+    <img src="https://img.shields.io/badge/Hack_The_Box-Profile-55D6BE?style=flat-square&logo=hackthebox&logoColor=black" />
+  </a>
+  <a href="https://www.youtube.com/@ala4043">
+    <img src="https://img.shields.io/badge/YouTube-Channel-55D6BE?style=flat-square&logo=youtube&logoColor=black" />
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=alaeddine-cmd&style=flat-square&color=0A66C2" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=alaeddine-cmd&style=flat-square&color=55D6BE" />
+
+<br>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Pacman.gif"
+     width="45"
+     alt="Pac-Man" />
+
+<code> · · · · · · · · · · · · · · </code>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### `$ cat about-me.txt`
 
-I'm a **SOC Analyst** from Tunisia with a background in Computer Science, Network Engineering, and Software Development.
+Hey, I'm Ala Eddine, a SOC Analyst from Tunisia.
 
-My work focuses on security monitoring, alert triage, incident investigation, and threat detection across SIEM, EDR/XDR, and NDR platforms.
+Most of my time goes into monitoring security alerts, investigating suspicious activity, analyzing logs, and understanding what's actually happening behind an incident.
 
-With previous experience in Full Stack Development and IoT, I also enjoy understanding how applications, networks, and connected systems work behind the scenes.
+Before getting into cybersecurity, I worked on backend development and IoT projects. That background still influences how I approach security: understanding the systems, applications, and networks behind the alerts matters just as much as detecting them.
 
-- 🔐 Working in Security Operations (SOC).
-- 🛡️ Investigating security alerts and analyzing suspicious activities.
-- 🔎 Exploring threat detection, network security, and digital forensics.
-- 💻 Background in Backend Development, MERN Stack, and IoT.
-- 🎯 Currently preparing for the **HTB Certified Junior Cybersecurity Associate (CJCA)**.
+When I'm not working, I'm usually exploring something new, breaking things in labs, or building small projects.
 
----
+### `$ ls ./security-toolkit`
 
-## 🛡️ Cybersecurity Toolkit
+**SIEM**
 
-**SIEM Platforms**
+`FortiSIEM` · `IBM QRadar` · `Wazuh` · `Security Onion`
 
-<p>
-  <img src="https://img.shields.io/badge/FortiSIEM-EE3124?style=flat-square" />
-  <img src="https://img.shields.io/badge/IBM_QRadar-052FAD?style=flat-square" />
-  <img src="https://img.shields.io/badge/Wazuh-3B82F6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Security_Onion-333333?style=flat-square" />
-</p>
+**Endpoint & Network Security**
 
-**EDR / XDR / NDR**
+`CrowdStrike Falcon` · `Microsoft Defender` · `Symantec Endpoint Security` · `Trend Vision One` · `Darktrace`
 
-<p>
-  <img src="https://img.shields.io/badge/CrowdStrike_Falcon-E01F27?style=flat-square" />
-  <img src="https://img.shields.io/badge/Microsoft_Defender-0078D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Symantec_Endpoint-DB3434?style=flat-square" />
-  <img src="https://img.shields.io/badge/Trend_Vision_One-D71920?style=flat-square" />
-  <img src="https://img.shields.io/badge/Darktrace-242424?style=flat-square" />
-</p>
+**Investigation & Analysis**
 
-**Security & Investigation Tools**
+`Kali Linux` · `Nmap` · `Wireshark` · `MITRE ATT&CK` · `Threat Intelligence`
+
+### `$ ls ./development`
+
+Still part of my toolkit.
 
 <p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-ED1C24?style=flat-square" />
-  <img src="https://img.shields.io/badge/Threat_Intelligence-444444?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,react,flask,laravel,mongodb,mysql,aws,linux,bash,git" />
 </p>
 
----
+### `$ cat currently-learning.txt`
 
-## 💻 Development Stack
-
-**Languages & Frameworks**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,react,flask,laravel" />
-</p>
-
-**Databases & Cloud**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,docker" />
-</p>
-
-**Tools & Platforms**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,postman,vscode" />
-</p>
-
----
-
-## 🚀 Areas of Interest
-
-- Security Operations & Incident Response
-- Threat Hunting & Threat Intelligence
-- Network Security & Traffic Analysis
+- HTB Academy — CJCA (In Progress)
+- Threat Hunting & Detection Engineering
 - Active Directory Security
-- Penetration Testing & Vulnerability Assessment
-- Cloud Security
-- Backend Development & IoT Systems
+- Network Traffic Analysis
 
----
+### `$ cat interests.txt`
 
-## 📚 Currently Learning
-
-- Hack The Box Academy — CJCA Certification
-- Advanced SOC investigation techniques
-- Threat hunting and detection engineering
-- Active Directory security and attack techniques
+SOC Operations · Incident Response · Threat Hunting · Network Security · CTFs · Backend Development · IoT
 
 ---
 
 <div align="center">
 
-### Always learning. Always building. Always investigating.
+<sub>Less guessing, more investigating.</sub>
 
 </div>
+```
