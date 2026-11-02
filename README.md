@@ -25,11 +25,9 @@
 
 <br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Pacman.gif"
-     width="45"
-     alt="Pac-Man" />
-
-<code> · · · · · · · · · · · · · · </code>
+<img src="https://www.classicgaming.cc/classics/pac-man/images/web/pac_right.gif"
+       width="40"
+       alt="Classic Pac-Man eating dots" />
 
 </div>
 
@@ -85,4 +83,3 @@ SOC Operations · Incident Response · Threat Hunting · Network Security · CTF
 <sub>Less guessing, more investigating.</sub>
 
 </div>
-```
