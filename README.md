@@ -1,9 +1,7 @@
 
 <div align="center">
 
-<h2>alaeddine@github:~$ whoami</h2>
-
-<h1>Ala Eddine Lusakula</h1>
+<h2>root@github:~$ whoami</h2>
 
 <p>
   <code>SOC Analyst</code> · <code>Cybersecurity</code> · <code>Developer</code>
@@ -33,7 +31,7 @@
 
 ---
 
-### `$ cat about-me.txt`
+### `$ cat ./me.txt`
 
 Hey, I'm Ala Eddine, a SOC Analyst from Tunisia.
 
